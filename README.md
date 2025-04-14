@@ -33,7 +33,7 @@ Floating App Controller adalah aplikasi untuk mengatur jendela-jendela aplikasi 
 
 ## Cara Penggunaan
 
-1. Jalankan aplikasi dengan menjalankan script Python `main.py`:
+1. Jalankan aplikasi dengan menjalankan script Python `main.py` atau buka file exe yang berada di dalam folder dist:
 
    ```bash
    python main.py
