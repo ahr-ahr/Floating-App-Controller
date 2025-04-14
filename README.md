@@ -27,8 +27,6 @@ Floating App Controller adalah aplikasi untuk mengatur jendela-jendela aplikasi 
    pip install keyboard pywin32 pillow
    ```
 
-````
-
 3. Pastikan kamu memiliki file `favicon.ico` untuk ikon aplikasi atau sesuaikan dengan format lain seperti `.png`.
 
 ## Cara Penggunaan
@@ -53,12 +51,9 @@ All rights reserved.
 
 Aplikasi ini dibuat oleh Ahmad Haikal Rizal sebagai bagian dari proyek pribadi.
 
-```
-
 ### Penjelasan
+
 - **Fitur Utama**: Menyebutkan semua fitur yang ada di aplikasi, termasuk float/unfloat dan penggunaan hotkey.
 - **Prasyarat dan Instalasi**: Memberikan instruksi tentang dependensi dan cara instalasi.
 - **Cara Penggunaan**: Menginstruksikan bagaimana menjalankan aplikasi dan cara penggunaannya.
 - **Lisensi dan Credits**: Memberikan informasi hak cipta dan kredit pembuat.
-```
-````
